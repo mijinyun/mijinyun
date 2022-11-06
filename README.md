@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=HI,%20there!%20MIJIN'S%20GITHUB&fontColor=ffffff&fontSize=40&animation=twinkling)
-
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=HI,%20there!👋%20MIJIN'S%20GITHUB&fontColor=ffffff&fontSize=40&animation=twinkling)
+<br>
 <h3 align="center">💛 Tech Stack 💛</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp
@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Figma-339933?style=for-the-badge&logo=Figma&logoColor=white"/></a>&nbsp
   
 </p>
+<br>
 <!-- 
 <h3 align="center"> Top Languages </h3>
 <div align="center">
