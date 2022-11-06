@@ -15,9 +15,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/GIT-339933?style=for-the-badge&logo=GIT&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/GITHUB-339933?style=for-the-badge&logo=GITHUB&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Figma-339933?style=for-the-badge&logo=Figma&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GIT-FF0000?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=Github0&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Figma-E782FF?style=for-the-badge&logo=Figma&logoColor=white"/></a>&nbsp
   
 </p>
 <br>
