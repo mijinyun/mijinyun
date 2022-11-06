@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=HI,%20there!👋%20MIJIN'S%20GITHUB&fontColor=ffffff&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Hi,%20there!👋%20MIJIN'S%20GITHUB&fontColor=ffffff&fontSize=40&animation=twinkling)
 <br>
 <h3 align="center">💛 Tech Stack 💛</h3>
 <p align="center">
